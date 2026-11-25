@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
-# Module 7: Main Menu, Integration & Report Export (Member 7)
+
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
-# Load all 6 team feature modules
+
 MODULES=(
     "system_info.sh"
     "network.sh"
