@@ -16,7 +16,7 @@ A modular, menu-driven Bash terminal utility developed by a 7-member team for th
 
 ## Quick Start
 
-    git clone https://github.com/harmanit-eng/systemcare-linux-toolkit.git
+    git clone https://github.com/PiyushChorasiya/systemcare-linux-toolkit.git
     cd systemcare-linux-toolkit
     chmod +x *.sh
     ./main.sh
